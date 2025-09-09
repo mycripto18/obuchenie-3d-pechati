@@ -1,2 +1,3 @@
 User-agent: Yandex
-Sitemap: https://mediator-obuchenie.vercel.app/sitemap.xml
+
+Sitemap: https://obuchenie-3d-pechati.vercel.app/sitemap.xml
